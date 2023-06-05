@@ -26,7 +26,6 @@ Enter the codefor admin.py and model.py
 
 Execute Django admin and create 10 employees
 
-
 ## PROGRAM:
 
 Model.py:
@@ -54,6 +53,12 @@ admin.site.register(Employee,EmployeeAdmin)
 ```
 
 ## OUTPUT:
+
+### SERVER OUTPUT:
+
+![Screenshot 2023-06-05 232253](https://github.com/Abrinnisha6/django-orm-app/assets/118889454/2194097f-82b1-48f0-a350-8c0c9feff118)
+
+### CLIENT OUTPUT:
 
 ![employee](https://user-images.githubusercontent.com/118889454/230270948-855713f5-15dd-4431-94b4-f5aeef00efce.png)
 
